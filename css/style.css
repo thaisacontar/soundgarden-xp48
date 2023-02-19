@@ -29,6 +29,9 @@ aside {
     background-color: #C2185B;
 }
 
+.col-6 {
+    width: 100%;
+}
 
 .btn-primary{
     background-color: #C2185B;
